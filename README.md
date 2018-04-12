@@ -78,6 +78,11 @@ php artisan migrate
 php artisan db:seed --class=UserTableSeeder
 ```
 
+### 运行
+```
+php artisan serve
+```
+
 ### 调优
 * 部署到线上可选，本地测试无需执行
 
