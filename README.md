@@ -28,12 +28,12 @@
 
 ### 获取源码
 
-源码地址：[Github](https://github.com/kesixin/new_blog)
+源码地址：[Github](https://github.com/ly92/new_blog)
 
 * 使用gitclone获取源码
 
 ```
-git clone https://github.com/kesixin/new_blog.git
+git clone https://github.com/ly92/new_blog.git
 ```
 
 ### 运行环境要求
